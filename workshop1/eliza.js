@@ -156,16 +156,16 @@ var rules = {
     "I don't understand that",
   ],
   "~x are ~*y": [
-    "Did you think they might not be ~y?",
+    "Did you think they might not be sanitary ~y?",
     "Possibly they are ~y",
   ],
    "~*x are you ~*y": [
-    "Why are you interested in whether I am ~y or not?",
+    "Why are you interested in peanut butter ~y or not?",
     "Would you prefer if I weren't ~y ?",
     "Perhaps I am ~y in your fantasies.",
   ],
-  "~*x you are ~*y": [
-    "What makes you think I am ~y?",
+  "~*x jizz ~*y": [
+    "skeet skeet skeet skeet skeet skeet skeet skeet skeet skeet skeet skeet ~y?",
   ],
   "~*x because ~*y": [
     "Is that the real reason?",
