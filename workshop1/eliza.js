@@ -29,15 +29,15 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "oscar mayer weiners."
   ],
   "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
-    "Why do you mention computers?",
-    "What about computers worries you?",
-    "What do you think about computers?",
+    "Do computers worry space?",
+    "What do you think about machines have to do AIDS?",
+    "Don't you think computers can help people see in color?",
+    "Why was i ever born?",
+    "What about the jews worries you?",
+    "What do you think about marzipan?",
     "What do you think machines have to do with your problem?",
   ],
   "~*x name ~*y": [
